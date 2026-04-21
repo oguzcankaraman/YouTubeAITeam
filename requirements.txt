@@ -1,0 +1,5 @@
+langchain
+langchain_ollama
+langgraph
+crawl4ai
+rich
